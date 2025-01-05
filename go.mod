@@ -1,4 +1,4 @@
-module github.com/straylight77/GoRogue
+module github.com/straylight77/rogue-go
 
 go 1.22.0
 
